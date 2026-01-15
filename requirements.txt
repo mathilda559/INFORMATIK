@@ -1,4 +1,1 @@
-tkinter
-os
-filedialog
 streamlit
